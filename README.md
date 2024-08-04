@@ -19,13 +19,16 @@ A simple task management application built with HTML, CSS, JavaScript, Node.js, 
 task-management-app/
 │
 ├── frontend/
+| |
 │ ├── index.html
 │ ├── styles.css
 │ └── script.js
 │
 ├── backend/
+| | 
 │ ├── index.js
 │
+|
 └── README.md
 
 ### Frontend
@@ -82,11 +85,16 @@ Create a table with the following schema:
        Navigate to the frontend directory.
        Open index.html in your preferred web browser to view and interact with the application.
 API Endpoints:
+
     POST /tasks - Create a new task
+    
     GET /tasks - Retrieve all tasks
+    
     PUT /tasks/
         - Update a task's status
+        
     DELETE /tasks/
         - Delete a task
+        
 Contributing:
     Feel free to open issues or submit pull requests if you have any suggestions or improvements.
