@@ -17,7 +17,9 @@ A simple task management application built with HTML, CSS, JavaScript, Node.js, 
 
 ## Project Structure
 task-management-app/frontend/index.html,styles.css,script.js
+
 task-management-app/backend/index.js
+
 task-management-app/README.md
 
 ### Frontend
