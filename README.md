@@ -52,9 +52,9 @@ task-management-app/README.md
   Navigate to the backend directory.
 
   Install the required Node.js packages:
-    cd backend
-    npm install
-    Configure your MySQL database:
+       cd backend
+       npm install
+   Configure your MySQL database:
 
 Create a database named todo_list.
 
