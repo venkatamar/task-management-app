@@ -44,7 +44,7 @@ task-management-app/README.md
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/venkatamar/task-management-app.git
    cd task-management-app
 
 2. Set up the backend:
